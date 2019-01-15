@@ -24,6 +24,7 @@ https://www.youtube.com/watch?v=sZyAn2TW7GY
 - using groups to indicate that certain part of the string I want.
 - ex) www.naver.com, www.google.com
 - (\b{3})\.([a-zA-Z]+)(\.\b{3}) each group is group1($1), group2($2), group3($3)
+- (be aware that in README.md, '\ .' is just ' .')
 - you could replace or parse only that group by using $2
 
 ## lang-detect
