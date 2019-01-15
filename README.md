@@ -10,7 +10,7 @@ What I learned in experience, and don't want to forget.
 - transform
 
 ## Multitasking
-- Threading(perform better at shallow by wide ranged task)
+- Threading(perform better at shallow but wide ranged task)
 - Build Threads by for loop. each allocating a job. 
 - Multiprocessing(perform better at complicated and slightly wide ranged task)
 - using nohub(using terminal to allocate tasks to each processor)
