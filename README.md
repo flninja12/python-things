@@ -36,4 +36,6 @@ https://www.youtube.com/watch?v=sZyAn2TW7GY
 ## Tokenizer (Konlpy & Khaiii & nltk)
 - Konlpy.tag --> Kkma, Okt  
   
+## Gif maker
+- https://www.kaggle.com/nayuts/let-s-visualize-dataset-to-understand#%E2%86%93%E2%86%93%E2%86%93-You-can-change-the-first-argment-for-dataframe-of-visualize-target-and-the-second-argment-for-gif-file-to-save.
 'always learning!'
